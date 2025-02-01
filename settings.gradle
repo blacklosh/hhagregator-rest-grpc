@@ -1,0 +1,5 @@
+rootProject.name = 'hhAgregator'
+
+include 'hhClient'
+include 'hhProtoProvider'
+include 'hhServerStub'
